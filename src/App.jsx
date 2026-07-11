@@ -425,7 +425,7 @@ const App = () => {
       <footer className="border-t border-slate-200 bg-white py-8">
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-4 text-sm text-slate-500 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
           <p>© 2026 Bachpan Public Secondary School. All rights reserved.</p>
-          <p>Designed for a mobile-first school website experience.</p>
+          <p>Powered By PhazeAI Private Limited</p>
         </div>
       </footer>
     </div>
